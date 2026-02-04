@@ -1,11 +1,10 @@
-# Laravel Web System (IIS)
+# SPB Inventory Management System
 
 ## Project Description
 
-This project is a web-based system developed using the Laravel framework.
-It is designed to manage system data such as users and records in an organized way.
-The system is developed and tested on a Windows environment using
-Internet Information Services (IIS) with PHP.
+This is a web-based inventory management system for SPB.  
+It is built using the Laravel framework and runs on Windows with IIS.  
+The system helps to manage items, categories, suppliers, and stock efficiently.
 
 ---
 
