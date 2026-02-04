@@ -23,13 +23,13 @@ The system helps to manage items, categories, suppliers, and stock efficiently.
 
 1. Install PHP, Composer, MySQL, and enable IIS on Windows.
 2. Download or clone this project into:
-    C:\inetpub\wwwroot\inventory-management-system
+    C:\inetpub\wwwroot\
 3. Open Command Prompt in the project folder and run:
-    composer install
+    `composer install`
 4. Rename `.env.example` to `.env` and set the database details.
 5. Run the following commands:
-    php artisan key:generate
-    php artisan migrate
+    `php artisan key:generate`
+    `php artisan migrate`
 6. Open IIS Manager and set the site physical path to:
     inventory-management-system/public
 7. Give write permission to:
